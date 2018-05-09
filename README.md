@@ -1,2 +1,2 @@
 # web
-# web
+dynasty.pw
